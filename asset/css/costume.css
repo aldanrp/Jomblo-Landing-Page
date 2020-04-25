@@ -73,7 +73,7 @@ a.nav-item.nav-link.menu:hover {
 }
 
 .jumbotron {
-    background-image: url(/asset/img/3571325.jpg);
+    background-image: url("../img/3571325.jpg");
     background-size: cover;
     height: 400px;
 }
@@ -355,7 +355,7 @@ p.awesome_line {
 
 /* ABOUT SECTION */
 .aboutme {
-    background-image: url(/asset/img/3159551.jpg);
+    background-image: url(../img/3159551.jpg);
     background-size: cover;
     height: 150px;
     position: relative;
